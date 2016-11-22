@@ -11,5 +11,5 @@ This project is about sharing good idea's to everybody, to make the “High-End 
 
 About this project: “high-resolution-add-on-tweeter”
 
-Goal is to develop an open hardware add-on tweeter that will enhance every conventional loudspeaker so that it better suitable to playback high resolution music.
+Goal is to develop an open hardware add-on tweeter that will enhance every conventional loudspeaker for better high resolution music playback.
 
